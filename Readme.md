@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Kate Smol](https://up.htmlacademy.ru/htmlcss/14/user/184920).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Маркелов] (https://up.htmlacademy.ru/htmlcss/14/user/235291)
 
 ---
 
